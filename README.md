@@ -1,8 +1,8 @@
 # Relational Database Support for Data Warehouses
 
-This repository is a project portfolio for the "Relational Database Support for Data Warehouses" certification program by Coursera. This course prepares students with the skills of using analytical elements of SQL for answering business intelligence questions. Through this course, students learn features of relational database management systems for managing summary data commonly used in business intelligence reporting. The course also covers storage architectures, scalable parallel processing, data governance, and big data impacts.
+This repository is a project portfolio for the "Relational Database Support for Data Warehouses" certification program by Coursera. This program is part 3 of the "Data Warehousing for Business Intelligence" Specialization which prepares students with the skills of using analytical elements of SQL for answering business intelligence questions. Through this program, students learn features of relational database management systems for managing summary data commonly used in business intelligence reporting. The program also covers storage architectures, scalable parallel processing, data governance, and big data impacts.
 
-There are 5 modules in this course. Each folder in this repository is a collection of the working and data files for the assignment in each module.
+There are 5 modules in this program. Each folder in this repository is a collection of the working and data files for the assignment in each module.
 
 ---
 
